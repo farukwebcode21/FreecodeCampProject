@@ -1,3 +1,9 @@
-#title, #img-caption{
+#title, #img-caption,#link{
     text-align: center;
+
+}
+#link a{
+    text-decoration: none;
+    font-style:oblique;
+    
 }
